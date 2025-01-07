@@ -1,0 +1,22 @@
+# Python related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Files
+.env
+venv/
+.DS_Store
+
+# Logs and Database Files
+*.log
+*.sqlite3
+
+# OS specific
+.idea/
+.vscode/
+Thumbs.db
+
+# Ignore node_modules if you're using JavaScript/Node.js
+node_modules/
