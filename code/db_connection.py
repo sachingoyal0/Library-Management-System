@@ -2,7 +2,6 @@
 # Library Management System - Refactored Code
 
 # 1. db_connection.py
-# db_connection.py
 import mysql.connector
 import os
 

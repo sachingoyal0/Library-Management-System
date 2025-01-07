@@ -1,5 +1,4 @@
 # Main file to run the UI (Optional: Tkinter/CLI)
-# Main file to run the UI
 from manage_books import add_book, view_books
 from borrow_return import borrow_book, return_book
 

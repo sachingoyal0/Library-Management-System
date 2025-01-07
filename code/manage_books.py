@@ -1,6 +1,5 @@
 # Code for managing books
 # 2. manage_books.py
-# manage_books.py
 from db_connection import get_connection
 
 def add_book(title, author, category, available):
